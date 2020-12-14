@@ -769,7 +769,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/ezgif.com-resize.gif") center center no-repeat;
+  /*background: url("../img/ezgif.com-resize.gif") center center no-repeat;*/
   background-size: contain;
   min-height: 300px;
   border-radius: 10%;
