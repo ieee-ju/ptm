@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(13, 18, 252, 0.6);
+  background: rgba(3, 3, 19, 0.6);
   overflow: hidden;
   display: none;
   transition: ease-in-out 0.2s;
