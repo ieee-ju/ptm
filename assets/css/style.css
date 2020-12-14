@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background:#130a0e;
+  background:#040919;
 }
 
 #header.header-transparent {
@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled {
-  background:   #130a0e;
+  background:   #040919;
   height: 60px;
 }
 
