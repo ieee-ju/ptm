@@ -723,7 +723,8 @@ section {
   padding: 40px 0 0 0;
 }
 
-.about .icon-boxes h3 {
+.about,
+.button .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
   color: #d32467;
